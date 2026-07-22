@@ -10,3 +10,4 @@
 7. Heap
 8. Graph
 9. DP
+10. Bit Manipulation
